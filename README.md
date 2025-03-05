@@ -1,1 +1,3 @@
 # anuram.at
+
+![](./anuramat.gif)
